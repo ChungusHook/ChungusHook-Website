@@ -73,7 +73,7 @@ div.sticky {
     text-align: center;
     color: #2F0097;
     margin: 0;
-    background-image: url(/media/zebra.png);
+    background-image: url(media/zebra.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
